@@ -12,6 +12,9 @@ The Tweet-IDs are organized as follows:
 
 
 # Data Usage Agreement / How to Cite
+
+8/18/23 Note: Arxiv Author list has not been updated to reflect the most up to date list. 
+
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
 
 Francesco Pierri, Luca Luceri, Emily Chen and  Emilio Ferrara. 2022. How Does Twitter Account Moderation Work? Dynamics of Account Creation and Suspension During Major Geopolitical Events. arXiv:cs.SI/2209.07614
